@@ -1,0 +1,1 @@
+include ':app', ':commons-collections4-4.0', ':commons-lang3-3.2.1', ':graphview-3.1'
